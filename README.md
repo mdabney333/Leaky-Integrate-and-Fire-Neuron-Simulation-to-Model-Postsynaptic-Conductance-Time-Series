@@ -1,1 +1,1 @@
-# Leaky-Integrate-and-Fire-Neuron-Simulation-to-Model-Postsynaptic-Conductance-Time-Series
+# Leaky Integrate and Fire Neuron Simulation to Model Conductance Stimulus and Postsynaptic Conductance Time Series
