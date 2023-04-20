@@ -4,12 +4,12 @@ Use of the LIF neuron model to simulate response to presynaptic forms of stimulu
 
 Dependencies:
 
-  Python 3
+-  Python 3
 
-  Jupyter Notebook
+-  Jupyter Notebook
 
-  Numpy
+-  Numpy
 
-  Matplotlib
+-  Matplotlib
 
-  Scipy
+-  Scipy
