@@ -1,8 +1,0 @@
-import numpy as np
-import matplotlib.pyplot as plt
-import mylifneuron as mln
-from scipy.stats import poisson
-%config InlineBackend.figure_format = 'retina'
-plt.style.use('bmh')
-plt.rcParams['figure.figsize'] = [10,5]
-plt.rcParams['lines.linewidth'] = 1.5
